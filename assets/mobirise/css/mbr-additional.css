@@ -706,6 +706,42 @@ a {
     padding: 0 2rem;
   }
 }
+.cid-szFCzZtHmJ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-szFCzZtHmJ .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-szFCzZtHmJ .currentcost {
+  color: #232323;
+}
+.cid-szFCzZtHmJ .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-szFCzZtHmJ .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-szFCzZtHmJ .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-szFCzZtHmJ .text-box {
+    padding: 1rem;
+  }
+}
+.cid-szFCzZtHmJ .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sioDSHiOiG {
   padding-top: 6rem;
   padding-bottom: 6rem;
